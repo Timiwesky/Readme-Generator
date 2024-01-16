@@ -28,6 +28,7 @@ When a user is prompted for information about the application repository then a 
 Link to <a href="https://github.com/Timiwesky/Readme-Generator">Repository</a>
 
 ## Screenshot
+<img width="1142" alt="Screenshot 2024-01-16 at 11 41 07 PM" src="https://github.com/Timiwesky/Readme-Generator/assets/115565053/4119a5d1-f474-4f6e-ad1c-14d11440ccc0">
 
 
 ## Credits
