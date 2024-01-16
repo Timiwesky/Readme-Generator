@@ -21,7 +21,7 @@ When a user is prompted for information about the application repository then a 
 - npm Inquirer
 
 ## How to Use This Application
- <a href="">Link to watch the Walkthrough video</a>
+ <a href="https://www.dropbox.com/scl/fi/qnenmc5zl3vbznbnyx65j/Screen-Recording-2024-01-16-at-11.27.25-PM.mov?rlkey=ae7r4n9k0msmk8blr1vvapuxf&dl=0">Link to watch the Walkthrough video</a>
 
 ## GitHub Repo
 
